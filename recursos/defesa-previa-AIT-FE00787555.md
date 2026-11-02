@@ -6,7 +6,7 @@ Rua Miranda, 655 – Mangabeira – CEP 44056-300 – Feira de Santana/BA
 **Ref.:** AIT nº **FE00787555** – Processamento nº **527166081** – Lote 38123
 **Código da infração:** 556-8 (Art. 181, XIX, do CTB) – Placa **NZR9004** – RENAVAM 00458141526
 
-**VIVIANE DIAS OLIVEIRA**, CPF nº 915.071.705-72, residente na 1ª Travessa São Félix, nº 16, bairro Tomba, Feira de Santana/BA, CEP [CEP], telefone (75) 98203-5807, proprietária do veículo FIAT/PALIO ATTRACTIV 1.0, placa NZR9004, vem, tempestivamente, com fundamento no art. 281 do Código de Trânsito Brasileiro e na Resolução CONTRAN nº 918/2022, apresentar
+**VIVIANE DIAS OLIVEIRA**, CPF nº 915.071.705-72, residente na 1ª Travessa São Félix, nº 16, bairro Tomba, Feira de Santana/BA, CEP 44091-106, telefone (75) 98203-5807, proprietária do veículo FIAT/PALIO ATTRACTIV 1.0, placa NZR9004, vem, tempestivamente, com fundamento no art. 281 do Código de Trânsito Brasileiro e na Resolução CONTRAN nº 918/2022, apresentar
 
 ## DEFESA PRÉVIA
 
