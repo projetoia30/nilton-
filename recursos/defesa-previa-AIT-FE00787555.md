@@ -6,7 +6,7 @@ Rua Miranda, 655 – Mangabeira – CEP 44056-300 – Feira de Santana/BA
 **Ref.:** AIT nº **FE00787555** – Processamento nº **527166081** – Lote 38123
 **Código da infração:** 556-8 (Art. 181, XIX, do CTB) – Placa **NZR9004** – RENAVAM 00458141526
 
-**VIVIANE DIAS OLIVEIRA**, CPF nº 915.071.705-72, residente em [ENDEREÇO COMPLETO], telefone [TELEFONE], proprietária do veículo FIAT/PALIO ATTRACTIV 1.0, placa NZR9004, vem, tempestivamente, com fundamento no art. 281 do Código de Trânsito Brasileiro e na Resolução CONTRAN nº 918/2022, apresentar
+**VIVIANE DIAS OLIVEIRA**, CPF nº 915.071.705-72, residente na 1ª Travessa São Félix, nº 16, bairro Tomba, Feira de Santana/BA, CEP [CEP], telefone (75) 98203-5807, proprietária do veículo FIAT/PALIO ATTRACTIV 1.0, placa NZR9004, vem, tempestivamente, com fundamento no art. 281 do Código de Trânsito Brasileiro e na Resolução CONTRAN nº 918/2022, apresentar
 
 ## DEFESA PRÉVIA
 
@@ -20,7 +20,9 @@ A notificação foi emitida em 14/10/2026, com prazo para defesa até 08/12/2026
 
 Consta no auto que, em 02/10/2026, às 15:30:09, na Rua Papa João XXIII, 119, o veículo estaria estacionado em local/horário proibido pela sinalização (art. 181, XIX, CTB).
 
-[DESCREVER AQUI O QUE REALMENTE ACONTECEU – ex.: o veículo estava apenas em embarque/desembarque rápido; a placa não era visível do ponto onde o carro parou; a placa estava encoberta por árvore/danificada; o horário da placa não abrangia 15h30; o veículo não estava no local naquela data/hora etc.]
+Ocorre que, no momento dos fatos, a própria requerente conduzia o veículo e a via apresentava **intenso congestionamento**, com o trânsito completamente travado. Não havia no local nenhum agente ou preposto da SMT orientando o fluxo. Diante disso, a requerente apenas **deslocou momentaneamente o veículo para a lateral da via, com o único objetivo de abrir espaço para a passagem dos demais veículos** e permitir o escoamento do trânsito, sem jamais abandonar o carro ou ter a intenção de estacioná-lo.
+
+Não se tratou, portanto, de estacionamento, mas de uma imobilização breve e forçada pelas circunstâncias, em colaboração com a fluidez e a segurança do trânsito.
 
 ### 3. DOS FUNDAMENTOS
 
@@ -33,7 +35,11 @@ A única observação lançada – "PLACA DE SINALIZAÇÃO REGULAMENTAR VISÍVEL
 **3.3. Inconsistência no código da infração.**
 No corpo da notificação consta "Cód. Infração 556-8, Desdobramento 0", enquanto no formulário FICI consta "Cód. Infração 556-80". A divergência de dados no documento compromete a segurança jurídica do auto e configura inconsistência nos termos do art. 281, parágrafo único, I, do CTB.
 
-**3.4. Sinalização.** [SE APLICÁVEL: A sinalização no local é insuficiente/ilegível/não indica horário, contrariando os arts. 80 e 90 do CTB, segundo os quais não serão aplicadas sanções por falta de sinalização ou sinalização insuficiente/incorreta. Anexar fotos do local.]
+**3.4. Não configuração de estacionamento.**
+Segundo o Anexo I do CTB, **estacionamento** é a imobilização do veículo por tempo superior ao necessário para embarque ou desembarque de passageiros, enquanto **parada** é a imobilização pelo tempo estritamente necessário. A requerente permaneceu no veículo e o imobilizou por instantes, apenas para liberar a passagem durante um congestionamento. A conduta não se amolda ao tipo "estacionar" do art. 181, XIX, do CTB.
+
+**3.5. Situação de necessidade e ausência de fiscalização orientadora.**
+A conduta foi motivada pelo dever de cuidado previsto nos arts. 26 e 29 do CTB, que impõem ao condutor não obstruir o trânsito e zelar pela segurança e fluidez da via. Diante do travamento da via e da inexistência de agente orientando o tráfego, a requerente agiu de boa-fé e no interesse coletivo, não podendo ser penalizada por colaborar com a desobstrução do trânsito.
 
 ### 4. DOS PEDIDOS
 
