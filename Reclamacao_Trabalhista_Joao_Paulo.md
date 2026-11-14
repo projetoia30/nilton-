@@ -6,8 +6,10 @@
 
 **JOÃO PAULO**, brasileiro, estado civil \_\_\_\_\_\_, químico industrial, atualmente desempregado, nascido em 15/03/1985, portador da Cédula de Identidade RG nº 1234567-8, inscrito no CPF sob o nº 987.654.321-00, CTPS nº \_\_\_\_\_\_, série \_\_\_\_\_\_, PIS/PASEP nº \_\_\_\_\_\_, filiação \_\_\_\_\_\_, endereço eletrônico \_\_\_\_\_\_, residente e domiciliado na Avenida Central, nº 456, Bairro Alegria, Feira de Santana/BA, CEP \_\_\_\_\_\_, por seu advogado que esta subscreve (procuração anexa), com escritório profissional situado na \_\_\_\_\_\_, endereço eletrônico \_\_\_\_\_\_, onde receberá as intimações (art. 77, V, e art. 106, I, do CPC), vem, respeitosamente, à presença de Vossa Excelência, com fundamento no art. 840, § 1º, da Consolidação das Leis do Trabalho (CLT), propor a presente
 
-**RECLAMAÇÃO TRABALHISTA**
+::: {style="text-align:center;text-indent:0"}
+**RECLAMAÇÃO TRABALHISTA**\
 **pelo rito ordinário**
+:::
 
 em face de **0² PRODUTOS QUÍMICOS LTDA.**, pessoa jurídica de direito privado, inscrita no CNPJ sob o nº 12.345.678/0001-90, endereço eletrônico desconhecido, com sede na Rua dos Negócios, nº 789, Bairro Comercial, Feira de Santana/BA, CEP \_\_\_\_\_\_, pelas razões de fato e de direito a seguir expostas.
 
@@ -205,16 +207,20 @@ Atribui-se à causa o valor de **R$ 651.237,19 (seiscentos e cinquenta e um mil,
 
 Os valores atribuídos aos pedidos são **estimativas**, conforme o art. 840, § 1º, da CLT e o art. 12, § 2º, da Instrução Normativa nº 41/2018 do TST, e não limitam a condenação, que será apurada em liquidação de sentença (TST, Emb-RR-555-36.2021.5.09.0024).
 
-Nestes termos,
+::: {style="text-align:center"}
+Nestes termos,\
 pede deferimento.
+:::
 
 Feira de Santana/BA, \_\_\_ de novembro de 2026.
 
 &nbsp;
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-**ADVOGADO(A)**
+::: {style="text-align:center"}
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
+**ADVOGADO(A)**\
 OAB/BA nº \_\_\_\_\_\_
+:::
 
 &nbsp;
 
